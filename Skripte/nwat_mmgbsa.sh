@@ -1,6 +1,6 @@
 #!/bin/bash
 
-module load NAMD/2.14-foss-2022a-mpi
+#module load NAMD/2.14-foss-2022a-mpi
 
 #NAMD_COMMAND="/d/hpc/home/asimonic/NAMD_2.14_Linux-x86_64-multicore/namd2 +p1 +isomalloc_sync"
 NAMD_COMMAND="singularity exec --bind=/d/hpc/projects/FKKT/EpCAM_MD /d/hpc/singularity/namd-2.13.sif namd2 +p1 +isomalloc_sync"

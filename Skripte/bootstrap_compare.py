@@ -5,6 +5,7 @@ import sys
 name1 = sys.argv[1]
 name2 = sys.argv[2]
 
+#Zamenjaj '_interfacearea.tsv' s primerno končnico
 volumes1 = numpy.loadtxt(name1 + '_interfacearea.tsv',delimiter='\t').transpose()
 volumes2 = numpy.loadtxt(name2 + '_interfacearea.tsv',delimiter='\t').transpose()
 
@@ -14,6 +15,8 @@ stdevs = numpy.zeros(B)
 covs = numpy.zeros(B)
 
 for x in range(B):
+    #Array mora imeti toliko naključnih števil, kot je neodvisnih simulacij (oz podenot v neodvisnih simulacijah, če gre za lastnosti, odvisne le od ene podenote) - v tem primeru 5 za 5 neodvisnih simulacij dimera,
+    #za volumen hidrofobnega žepa pa 10 - za 5 neodvisnih simulacij in vsako podenoto v dimeru posebej
     resampled_simulations_index1 = numpy.array([random.randint(0,4), random.randint(0,4), random.randint(0,4), random.randint(0,4), random.randint(0,4)])
     resampled_simulations_index2 = numpy.array([random.randint(0,4), random.randint(0,4), random.randint(0,4), random.randint(0,4), random.randint(0,4)])
 
