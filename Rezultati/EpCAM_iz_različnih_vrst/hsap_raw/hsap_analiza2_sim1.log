@@ -1,0 +1,397 @@
+INFO:    underlay of /etc/localtime required more than 50 (83) bind mounts
+rlwrap: Command not found.
+Info) VMD for LINUXAMD64, version 1.9.4a44 (June 22, 2020)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 128 CPUs detected.
+Info)   CPU features: SSE2 AVX AVX2 FMA 
+Info) Free system memory: 143GB (56%)
+ERROR) -dispdev options are 'win' 'opengl' (default), 'openglpbuffer', 'cave', 'caveforms', 'freevr', 'freevrforms', or 'text | none'
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+wkf_thread_set_self_cpuaffinitylist: sched_setaffinity: Invalid argument
+Info) No CUDA accelerator devices available.
+Info) Dynamically loaded 3 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+1
+hsap
+psfplugin) Detected a Charmm PSF file
+Info) Using plugin psf for structure file hsap/EpEX_hsap_sim1/nowat/EpEX_hsap_protein.psf
+Info) Analyzing structure ...
+Info)    Atoms: 7428
+Info)    Bonds: 7494
+Info)    Angles: 13526  Dihedrals: 19754  Impropers: 1330  Cross-terms: 470
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 474
+Info)    Waters: 0
+Info)    Segments: 2
+Info)    Fragments: 2   Protein: 2   Nucleic: 0
+dcdplugin) detected standard 32-bit DCD file of native endianness
+dcdplugin) CHARMM format DCD file (also NAMD 2.1 and later)
+Info) Using plugin dcd for coordinates from file hsap/EpEX_hsap_sim1/nowat/EpEX_hsap_protein_wrapped.dcd
+Info) Coordinate I/O rate 560.6 frames/sec, 47 MB/sec, 178.4 sec
+Info) Finished with coordinate file hsap/EpEX_hsap_sim1/nowat/EpEX_hsap_protein_wrapped.dcd.
+Numframes: 100000
+SEGA psi rmsf 25: 22.925588327345256
+SEGA psi rmsf 26: 29.157392517522602
+SEGA psi rmsf 27: 29.29572448760012
+SEGA psi rmsf 28: 61.62122504177142
+SEGA psi rmsf 29: 21.30808148537451
+SEGA psi rmsf 30: 11.14173059256504
+SEGA psi rmsf 31: 16.246377656542126
+SEGA psi rmsf 32: 12.567875927631768
+SEGA psi rmsf 33: 16.258062690454263
+SEGA psi rmsf 34: 34.633616610243934
+SEGA psi rmsf 35: 33.65248215979045
+SEGA psi rmsf 36: 18.926774154937203
+SEGA psi rmsf 37: 10.546123989431711
+SEGA psi rmsf 38: 19.33597279235039
+SEGA psi rmsf 39: 23.7827670344385
+SEGA psi rmsf 40: 14.241155738435317
+SEGA psi rmsf 41: 155.2580130042319
+SEGA psi rmsf 42: 28.981158058376394
+SEGA psi rmsf 43: 21.349554392085583
+SEGA psi rmsf 44: 14.604828706486558
+SEGA psi rmsf 45: 17.46231898506603
+SEGA psi rmsf 46: 11.831351471218358
+SEGA psi rmsf 47: 15.92529042718001
+SEGA psi rmsf 48: 73.45919190154314
+SEGA psi rmsf 49: 33.56366611296848
+SEGA psi rmsf 50: 14.236855766729716
+SEGA psi rmsf 51: 71.50406630509467
+SEGA psi rmsf 52: 32.144253539381104
+SEGA psi rmsf 53: 47.135542531279526
+SEGA psi rmsf 54: 25.87069177621798
+SEGA psi rmsf 55: 17.78350420048594
+SEGA psi rmsf 56: 13.653975868328313
+SEGA psi rmsf 57: 14.085111735061325
+SEGA psi rmsf 58: 13.280859391928471
+SEGA psi rmsf 59: 22.497454030398515
+SEGA psi rmsf 60: 19.330895823909685
+SEGA psi rmsf 61: 157.4362612826466
+SEGA psi rmsf 62: 13.85373174085287
+SEGA psi rmsf 63: 11.969633314046014
+SEGA psi rmsf 64: 9.028866601068431
+SEGA psi rmsf 65: 6.0096255625021975
+SEGA psi rmsf 66: 5.660043838064423
+SEGA psi rmsf 67: 7.760757203509511
+SEGA psi rmsf 68: 5.886580532123973
+SEGA psi rmsf 69: 7.5979230691183925
+SEGA psi rmsf 70: 6.362238656666688
+SEGA psi rmsf 71: 8.730224619536967
+SEGA psi rmsf 72: 10.13252832321042
+SEGA psi rmsf 73: 17.153788711183026
+SEGA psi rmsf 74: 10.935220930360757
+SEGA psi rmsf 75: 14.567793620928468
+SEGA psi rmsf 76: 14.025704062632924
+SEGA psi rmsf 77: 14.361144745815645
+SEGA psi rmsf 78: 11.892574059023762
+SEGA psi rmsf 79: 17.066018076971275
+SEGA psi rmsf 80: 21.662109665991107
+SEGA psi rmsf 81: 32.654587394175614
+SEGA psi rmsf 82: 14.002225736589693
+SEGA psi rmsf 83: 10.93582397074132
+SEGA psi rmsf 84: 10.725078747229038
+SEGA psi rmsf 85: 78.28117254055198
+SEGA psi rmsf 86: 19.68564097667643
+SEGA psi rmsf 87: 16.04193184133848
+SEGA psi rmsf 88: 25.342996190112242
+SEGA psi rmsf 89: 30.991826778018524
+SEGA psi rmsf 90: 84.96341281141443
+SEGA psi rmsf 91: 155.71949314336229
+SEGA psi rmsf 92: 54.89851755833872
+SEGA psi rmsf 93: 99.55728067828606
+SEGA psi rmsf 94: 33.6412264471135
+SEGA psi rmsf 95: 33.82799876841342
+SEGA psi rmsf 96: 10.291582831101763
+SEGA psi rmsf 97: 26.977815305785384
+SEGA psi rmsf 98: 12.680386524037269
+SEGA psi rmsf 99: 20.412742341672637
+SEGA psi rmsf 100: 152.85481663451586
+SEGA psi rmsf 101: 14.547286197005068
+SEGA psi rmsf 102: 15.549130869871739
+SEGA psi rmsf 103: 15.795113635371731
+SEGA psi rmsf 104: 25.650842430003564
+SEGA psi rmsf 105: 9.249233585113465
+SEGA psi rmsf 106: 14.772539472058906
+SEGA psi rmsf 107: 8.495872446549964
+SEGA psi rmsf 108: 12.27554213209153
+SEGA psi rmsf 109: 14.915084150593799
+SEGA psi rmsf 110: 22.628042670448863
+SEGA psi rmsf 111: 49.38118309108201
+SEGA psi rmsf 112: 71.04494022276192
+SEGA psi rmsf 113: 35.548157357592416
+SEGA psi rmsf 114: 81.59711513363786
+SEGA psi rmsf 115: 21.964956990500784
+SEGA psi rmsf 116: 19.201483515636607
+SEGA psi rmsf 117: 59.79342249365132
+SEGA psi rmsf 118: 9.451263470970677
+SEGA psi rmsf 119: 30.359137523375647
+SEGA psi rmsf 120: 168.01284076779436
+SEGA psi rmsf 121: 10.91614809704035
+SEGA psi rmsf 122: 12.2557152653116
+SEGA psi rmsf 123: 13.221250111780604
+SEGA psi rmsf 124: 7.926754629419988
+SEGA psi rmsf 125: 10.985293744627747
+SEGA psi rmsf 126: 18.931138110248618
+SEGA psi rmsf 127: 38.12914849397053
+SEGA psi rmsf 128: 35.18163658645993
+SEGA psi rmsf 129: 23.164463534173734
+SEGA psi rmsf 130: 27.109361918947204
+SEGA psi rmsf 131: 12.920153958348466
+SEGA psi rmsf 132: 53.74911262592008
+SEGA psi rmsf 133: 13.871807795454936
+SEGA psi rmsf 134: 65.72528039178385
+SEGA psi rmsf 135: 21.353878456049525
+SEGA psi rmsf 136: 69.89452955304934
+SEGA psi rmsf 137: 24.277138977003048
+SEGA psi rmsf 138: 16.959830395703058
+SEGA psi rmsf 139: 9.561155415688864
+SEGA psi rmsf 140: 8.279611948718003
+SEGA psi rmsf 141: 10.773429816570335
+SEGA psi rmsf 142: 10.903084344937346
+SEGA psi rmsf 143: 8.363208306736837
+SEGA psi rmsf 144: 8.299959348719737
+SEGA psi rmsf 145: 8.799461396063087
+SEGA psi rmsf 146: 8.590405221718305
+SEGA psi rmsf 147: 12.037120100788554
+SEGA psi rmsf 148: 23.599505825727427
+SEGA psi rmsf 149: 15.219298060930589
+SEGA psi rmsf 150: 26.31520957556483
+SEGA psi rmsf 151: 20.290132032020193
+SEGA psi rmsf 152: 36.238797251514946
+SEGA psi rmsf 153: 54.182080621468714
+SEGA psi rmsf 154: 91.61710338487988
+SEGA psi rmsf 155: 29.142952032214648
+SEGA psi rmsf 156: 29.513369836934668
+SEGA psi rmsf 157: 19.175205502370325
+SEGA psi rmsf 158: 11.910526982377759
+SEGA psi rmsf 159: 8.090527087679733
+SEGA psi rmsf 160: 7.168124069240132
+SEGA psi rmsf 161: 8.88847922222567
+SEGA psi rmsf 162: 7.0997511836396585
+SEGA psi rmsf 163: 6.979261507956855
+SEGA psi rmsf 164: 8.114188665760151
+SEGA psi rmsf 165: 6.958826763317586
+SEGA psi rmsf 166: 7.493249312979108
+SEGA psi rmsf 167: 6.41315622528373
+SEGA psi rmsf 168: 7.550343190341534
+SEGA psi rmsf 169: 6.337113603210704
+SEGA psi rmsf 170: 6.691028542544522
+SEGA psi rmsf 171: 14.909082684074038
+SEGA psi rmsf 172: 18.139522392580496
+SEGA psi rmsf 173: 6.8496271264296995
+SEGA psi rmsf 174: 9.197888785391319
+SEGA psi rmsf 175: 15.69895271749296
+SEGA psi rmsf 176: 9.602330192915094
+SEGA psi rmsf 177: 7.63377232401881
+SEGA psi rmsf 178: 14.254162654632996
+SEGA psi rmsf 179: 11.929416183130897
+SEGA psi rmsf 180: 14.457204184052495
+SEGA psi rmsf 181: 13.933762752646013
+SEGA psi rmsf 182: 56.09317314432405
+SEGA psi rmsf 183: 24.327662754576597
+SEGA psi rmsf 184: 11.509018391896422
+SEGA psi rmsf 185: 22.18273085397463
+SEGA psi rmsf 186: 14.317790805709548
+SEGA psi rmsf 187: 18.002718217265468
+SEGA psi rmsf 188: 16.67145576041932
+SEGA psi rmsf 189: 13.121113906646656
+SEGA psi rmsf 190: 10.173902341490255
+SEGA psi rmsf 191: 10.415035681359713
+SEGA psi rmsf 192: 10.386917080881208
+SEGA psi rmsf 193: 10.414208394840411
+SEGA psi rmsf 194: 9.784231482151412
+SEGA psi rmsf 195: 9.594451365074956
+SEGA psi rmsf 196: 10.518531579175495
+SEGA psi rmsf 197: 18.714644942620055
+SEGA psi rmsf 198: 44.51304721990509
+SEGA psi rmsf 199: 52.62159569255275
+SEGA psi rmsf 200: 38.60210553169942
+SEGA psi rmsf 201: 60.05616396186363
+SEGA psi rmsf 202: 52.53673739903382
+SEGA psi rmsf 203: 34.96773747877467
+SEGA psi rmsf 204: 34.408598896720115
+SEGA psi rmsf 205: 17.010168347759567
+SEGA psi rmsf 206: 39.31185333994453
+SEGA psi rmsf 207: 12.525849742523338
+SEGA psi rmsf 208: 10.264731656608184
+SEGA psi rmsf 209: 6.864124766064042
+SEGA psi rmsf 210: 8.800672793435869
+SEGA psi rmsf 211: 5.478286866502046
+SEGA psi rmsf 212: 5.195190497064892
+SEGA psi rmsf 213: 7.8689230190550665
+SEGA psi rmsf 214: 6.18278282377564
+SEGA psi rmsf 215: 5.761805558863055
+SEGA psi rmsf 216: 5.613280450988247
+SEGA psi rmsf 217: 6.3409472630831845
+SEGA psi rmsf 218: 6.263587890210297
+SEGA psi rmsf 219: 6.572547961840928
+SEGA psi rmsf 220: 8.270290436080145
+SEGA psi rmsf 221: 17.06088969455637
+SEGA psi rmsf 222: 15.006971677509465
+SEGA psi rmsf 223: 34.90926993326234
+SEGA psi rmsf 224: 14.733085200100142
+SEGA psi rmsf 225: 11.644070943067051
+SEGA psi rmsf 226: 20.688209543047467
+SEGA psi rmsf 227: 51.579298300293125
+SEGA psi rmsf 228: 33.39749537384898
+SEGA psi rmsf 229: 24.24135616658956
+SEGA psi rmsf 230: 42.543876461764306
+SEGA psi rmsf 231: 12.740624053339959
+SEGA psi rmsf 232: 28.994822221137994
+SEGA psi rmsf 233: 35.87589687758454
+SEGA psi rmsf 234: 15.104240239678289
+SEGA psi rmsf 235: 20.045639619577113
+SEGA psi rmsf 236: 22.72169988813123
+SEGA psi rmsf 237: 23.788018538637548
+SEGA psi rmsf 238: 34.841520859813485
+SEGA psi rmsf 239: 16.289403521993524
+SEGA psi rmsf 240: 14.787908074567191
+SEGA psi rmsf 241: 23.546677399649987
+SEGA psi rmsf 242: 17.079958276531926
+SEGA psi rmsf 243: 9.26974132376185
+SEGA psi rmsf 244: 12.018201419905504
+SEGA psi rmsf 245: 12.592737532885106
+SEGA psi rmsf 246: 16.653105958163426
+SEGA psi rmsf 247: 11.815454407280072
+SEGA psi rmsf 248: 12.053067124317282
+SEGA psi rmsf 249: 9.474637724949183
+SEGA psi rmsf 250: 11.410731466229974
+SEGA psi rmsf 251: 9.957341556437768
+SEGA psi rmsf 252: 8.467314473709328
+SEGA psi rmsf 253: 40.542388365088726
+SEGA psi rmsf 254: 10.68631280479892
+SEGA psi rmsf 255: 14.949754025028186
+SEGA psi rmsf 256: 9.93847537684494
+SEGA psi rmsf 257: 21.512616487673043
+SEGA psi rmsf 258: 65.2237723037888
+Info) VMD for LINUXAMD64, version 1.9.4a44 (June 22, 2020)
+Info) Exiting normally.

@@ -1,7 +1,7 @@
 #Skripta najde num_waters (25) obema podenotama najbližjih molekul vode, začenjši pri startframe (0 - od začetka) do endingframe (-1 - do konca), za vsako stride vmesno stanje (vsako 100to vmesno stanje).
 #Skripta shrani .pdb (struktura) in .psf (topologija) datoteke v direktorij extractnumwat, za kompleks in vsako podenoto posebaj.
 #V topologiji morata podenoti biti poimenovani SEGA in SEGB!
-#NAMENJENO NWAT-MM/GBSA analizam,
+#NAMENJENO Nwat-MM/GBSA analizam, skupaj s skripto nwat_mmgbsa.sh
 
 set dir /d/hpc/home/asimonic/vmd_plugins/pbctools2.8
 source ${dir}/pkgIndex.tcl
