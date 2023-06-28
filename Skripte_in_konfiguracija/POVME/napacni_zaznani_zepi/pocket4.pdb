@@ -1,0 +1,25 @@
+REMARK Pocket #4
+REMARK CHAIN A: PointsInclusionSphere 14.67 -14.67 14.33 6.0
+REMARK CHAIN B: PointsInclusionSphere 14.0 -14.0 15.0 5.0
+REMARK CHAIN C: PointsInclusionSphere 14.0 -15.33 15.67 5.75
+REMARK CHAIN D: PointsInclusionSphere 14.0 -15.25 13.38 6.4
+REMARK CHAIN E: PointsInclusionSphere 14.75 -16.0 15.0 6.03
+ATOM      1    A AAA A   1      14.000 -14.000  14.000                       A
+ATOM      2    A AAB A   2      15.000 -15.000  14.000                       A
+ATOM      3    A AAC A   3      15.000 -15.000  15.000                       A
+ATOM      1    B AAA B   1      14.000 -14.000  15.000                       B
+ATOM      1    C AAA C   1      14.000 -15.000  15.000                       C
+ATOM      2    C AAB C   2      14.000 -15.000  16.000                       C
+ATOM      3    C AAC C   3      14.000 -16.000  16.000                       C
+ATOM      1    D AAA D   1      13.000 -15.000  13.000                       D
+ATOM      2    D AAB D   2      13.000 -16.000  14.000                       D
+ATOM      3    D AAC D   3      14.000 -14.000  13.000                       D
+ATOM      4    D AAD D   4      14.000 -15.000  13.000                       D
+ATOM      5    D AAE D   5      14.000 -15.000  14.000                       D
+ATOM      6    D AAF D   6      14.000 -16.000  14.000                       D
+ATOM      7    D AAG D   7      15.000 -15.000  13.000                       D
+ATOM      8    D AAH D   8      15.000 -16.000  13.000                       D
+ATOM      1    E AAA E   1      14.000 -16.000  15.000                       E
+ATOM      2    E AAB E   2      15.000 -16.000  14.000                       E
+ATOM      3    E AAC E   3      15.000 -16.000  15.000                       E
+ATOM      4    E AAD E   4      15.000 -16.000  16.000                       E

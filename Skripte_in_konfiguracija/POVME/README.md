@@ -1,0 +1,4 @@
+- /napacni_zaznani_zepi - žepi, ki jih je v človeškem monomeru EpEX zaznal POVME_pocket_id.py, a niso hidrofobni žep znotraj SEA domene
+- POVME_SEG?.ini - konfiguracija a POVME2
+- pravi_zaznani_zep_pocket3.pdb - točke v prostoru hidrofobnega žepa, header pdb datoteke vsebuje priporočene (in uporabljene) parametre za lokacijo (vključitvene krogle) izračunavanja volumna žepa
+- hsap_SEGA_frame0.pdb - primer z žepom poravnane pdb datoteke - ta datoteka in pravi_zaznani_zep_pocket3.pdb vizualizirana hkrati pokažeta lokacijo žepa
