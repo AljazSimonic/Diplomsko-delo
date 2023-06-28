@@ -1,0 +1,1 @@
+Pri delu "Heterodimer" ekvilibracija ni bila izvedena ločeno, saj smo zmeraj analizirali le 4. in 5. nanosekundo trajektorij (in je simulacija.conf tako hkrati ekvilibracija in produkcijska simulacija v eni datoteki).
