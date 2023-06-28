@@ -28,6 +28,7 @@ export PATH=$(pwd):$PATH
 while [ $FRAME -lt $LAST_FRAME ]
     do
         echo $FRAME
+        #Opozorilo - uporablja polje sil CHARMM36. Za CHARMM36m je treba dodati še	parameters ${FORCEFIELD_PATH}/par_all36m_prot.prm
         CONF_FILE="structure ${EXTRACTED_PATH}/${NAME}_frame_%s${FRAME}.psf\ncoordinates ${EXTRACTED_PATH}/${NAME}_frame_%s${FRAME}.pdb\noutputName temp_nwat_gbsa/tempframe_%s${FRAME}\nfirsttimestep ${FRAME}\nparaTypeCharmm on\nparameters ${FORCEFIELD_PATH}/par_all36_prot.prm\nparameters ${FORCEFIELD_PATH}/param19.inp\nparameters ${FORCEFIELD_PATH}/par_all36_carb.prm\nparameters ${FORCEFIELD_PATH}/par_all36_lipid.prm\nparameters ${FORCEFIELD_PATH}/par_all36_na.prm\nparameters ${FORCEFIELD_PATH}/par_all36_cgenff.prm\nparameters ${FORCEFIELD_PATH}/toppar_water_ions_namd.str\ntemperature 310\nGBIS on\nsolventDielectric 78.5\nionConcentration 0.15\nalphaCutoff 15\nsasa on\nsurfaceTension 0.00542\nexclude scaled1-4\n1-4scaling 1.0\ncutoff 18\nswitching on\nswitchdist 16\npairlistdist 20\ntimestep 2\nrigidBonds all\nnonbondedFreq 2\nfullElectFrequency 4\nstepspercycle 20\nrun 0\nexit\n"
 
         printf "$CONF_FILE" "A" "A" "A" > ${PREFIX}temp_nwatmmgbsa.conf
